@@ -1,4 +1,4 @@
-#Forecasting Inflation in Turkey using LSTM Networks and ARIMA Model
+# Forecasting Inflation in Turkey using LSTM Networks and ARIMA Model
 This project aims to forecast inflation in Turkey using Long Short-Term Memory (LSTM) networks and an Autoregressive Integrated Moving Average (ARIMA) model. The dataset is obtained from the Turkish Statistical Institute, Federal Reserve Economic Data, and World Bank data. The performance of the LSTM network and ARIMA model will be compared to determine which model is more accurate for forecasting inflation in Turkey.
 
 How to Run the Code
